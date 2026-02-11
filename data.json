@@ -1,0 +1,1 @@
+{"samples": 300, "width": 20, "simulations": 100, "model_name": "./models/model1.h5", "total_snps": 10000, "gene_model": "heterozygote", "snap": true, "causal_snps": 1}
